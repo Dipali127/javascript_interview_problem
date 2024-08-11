@@ -1,4 +1,4 @@
-// question - write a function to remove  all occurrence of specified characters from the string.
+// question:- write a function to remove  all occurrence of specified characters from the string.
 // brute force approach:-
 // approach:-
 // convert the string into array of characters.
